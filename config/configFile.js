@@ -3,12 +3,12 @@ exports.info = {
       prefix2: '#',
       owner: {
           nome: "4relial",
-          number: "Your Owner number",
-          numero: ["Your Owner Number"]
+          number: "6283131688812",
+          numero: ["6283131688812"]
       }, 
       bot: {
-          name: "Megumi Katou",
-          number: "Your Bot Number"
+          name: "AXDB-Md",
+          number: "6283132921627"
       },
-      grupo: ""
+      grupo: "https://chat.whatsapp.com/FZu6pDEw6pTLEE3yLQ9P3G"
   }
